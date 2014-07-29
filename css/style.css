@@ -77,3 +77,41 @@ body {
 .padding-top-10 {
   padding-top:10px;
 }
+
+.navbar-no-padding {
+  padding-left:0px;
+  padding-right:0px;
+}
+
+.side-image {
+  padding:5px;
+}
+
+.side-images {
+  max-height: 380px;
+  overflow-y: auto;
+}
+
+.block {
+  border: 1px solid #ccc;
+  background: white;
+  margin: 1em 0em;
+  border-top: none;
+}
+
+.block-content {
+  margin: 1em;
+  min-height: .25em;
+}
+
+.block-header {
+  margin-bottom: 0px;
+  border-right: none;
+  border-left: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.block-header div {
+  padding-top: 10px;
+}
