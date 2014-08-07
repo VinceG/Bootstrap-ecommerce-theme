@@ -1,14 +1,20 @@
 body {
-  padding-top: 20px;
-  padding-bottom: 60px;
   background-color: #f5f5f5;
 }
 
 /* Custom container */
+body > .container {
+  padding-top: 20px;
+  padding-bottom: 60px;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1000px;
 }
+
 .container > hr {
   margin: 60px 0;
 }
