@@ -3,7 +3,7 @@ Bootstrap E-Commerce Theme
 
 This is a simple Bootstrap 2.x theme used for an eCommerce website. Check the demo link, or screenshot below.
 
-#### Pages
+## Pages
 
 1. Home
 2. Checkout
