@@ -19,13 +19,13 @@ Demo:
 
 http://vinceg.github.com/Bootstrap-ecommerce-theme
 
-<p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> <a href='https://twitter.com/gabrielva' target='_blank'>Follow @gabrielva</a> 2012</p>
+<p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> <a href='https://twitter.com/gabrielva' target='_blank'>Follow @gabrielva</a> 2014</p>
 
 License
 ===============
 The MIT License (MIT)
 
-Copyright (c) 2013 - Vincent Gabriel
+Copyright (c) 2014 - Vincent Gabriel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
