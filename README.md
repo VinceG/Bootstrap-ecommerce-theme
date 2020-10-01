@@ -13,6 +13,7 @@ This is a simple Bootstrap 2.x theme used for an eCommerce website. Check the de
 6. Contact Us
 7. Categories List
 8. Product Page
+9. Order History
 
 
 ![alt text](http://vadimg.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-08-at-10.38.52-AM.png "Home Page")
